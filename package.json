@@ -1,0 +1,16 @@
+{
+  "name": "langton-ant",
+  "version": "1.0.0",
+  "description": "Langton's Ant. For more info https://en.wikipedia.org/wiki/Langton%27s_ant",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "author": "limmie <limmiecrazzy@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^9.0.2",
+    "express": "^4.17.1"
+  }
+}
